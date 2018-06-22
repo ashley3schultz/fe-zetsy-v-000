@@ -16,6 +16,11 @@ h1 {
 	color: #9a9;
 }
 
+img {
+	border: 5px;
+	color: #9a9;
+}
+
 .wrapper {
 	width: 960px;
 	margin: 0 auto;
