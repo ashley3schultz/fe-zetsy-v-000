@@ -1,6 +1,7 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
+<link rel="stylesheet" href="./fonts/Baskerville.ttc">
 h1 {
 	font-family: Baskerville;
 	src: local("fonts/Baskerville.ttc");
