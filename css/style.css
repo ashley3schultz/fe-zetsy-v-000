@@ -17,8 +17,7 @@ h1 {
 }
 
 img {
-	border: 20px;
-	border-image: #9a9;
+	border: 20px, #9a9;
 }
 
 .wrapper {
