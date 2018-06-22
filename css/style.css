@@ -11,7 +11,7 @@ body {
 }
 
 h1 {
-	line-height: 0px;
+	line-height: 16px;
 	border-bottom: 2px solid #eee;
 	font-family: Baskerville;
 	font-size: 5em;
