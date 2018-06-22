@@ -24,6 +24,9 @@ img {
 .footer {
 	text-align: right;
 }
+p {
+	color: #899;
+}
 
 .wrapper {
 	width: 960px;
